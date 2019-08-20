@@ -52,6 +52,7 @@ function menu() {
     textSize(20);
     text("Although multiple different theories and claims of origins exist in various parts of the Middle East, evidence is\n insufficient to determine the precise location or time of the invention of hummus. Its basic ingredients—chickpeas, sesame,\n lemon, and garlic—have been combined and eaten in the Levant over centuries. Though regional populations widely ate\n chickpeas, and often cooked them in stews and other hot dishes, puréed chickpeas eaten cold with tahini do not appear before\n the Abbasid period in Egypt and the Levant.", width/5, height/4);
 }
+//Taken from the hummus Wikipedia page.
 function special () {
     text("Come to 3056 for the humm, crackers and hot choc is", 50, 100);
 }
