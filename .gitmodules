@@ -1,3 +1,3 @@
 [submodule "geojsonmap"]
 	path = geojsonmap
-	url = git@github.com:BishopOfTurkey/geojson-point-colour-display.git
+	url = https://github.com/BishopOfTurkey/geojson-point-colour-display.git
